@@ -166,26 +166,6 @@ namespace CollectionsMasterConsoleUI
             {
                 Console.WriteLine("Your number is not in the list");
             }
-
-            //    bool listCheck = true;
-
-            //    if (listCheck)
-            //    {
-            //        Console.WriteLine("Your number is in the list");
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("Your number is not in the list");
-            //    }
-
-            //    foreach (int num in numberList)
-            //    {
-            //        if (num == searchNumber)
-            //        {
-            //            listCheck = true;
-            //        }
-            //    }
-            //     listCheck = false;
         }
 
         private static void Populater(List<int> numberList)
